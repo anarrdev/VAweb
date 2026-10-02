@@ -6,10 +6,12 @@ import 'bootstrap-icons/font/bootstrap-icons.css'
 
 import Navbar from './navbar.jsx'
 import Footer from './footer.jsx'
+import Home from './home.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <Navbar />
+    <Home />
     <Footer />
   </StrictMode>,
 )

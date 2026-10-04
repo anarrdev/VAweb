@@ -1,4 +1,5 @@
 import CardImg from "../Elements/cardImg"
+import RedesSociales from "../Elements/iconorrss"
 
 function Home() {
   return (
@@ -11,14 +12,10 @@ function Home() {
 
         {/* Redes Sociales */}
         <p className="h4 m-0">¡Disfruta la Experiencia!</p>
+        <RedesSociales size='4'/>
 
-        <div className="d-flex justify-content-center gap-3 fs-3">
-          <i className="bi bi-instagram"></i>
-          <i className="bi bi-spotify"></i>
-          <i className="bi bi-tiktok"></i>
-          <i className="bi bi-youtube"></i>
-        </div>
 
+        {/* Card Artista */}
         <CardImg
           title="Virgilio Arrieta"
           subtitle="Patrimonio Cultural inmaterial de Venezuela"

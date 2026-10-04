@@ -1,12 +1,14 @@
+import { Link } from "react-router-dom"
+
 function Navbar() {
   return (
     <nav className="navbar navbar-expand-md bg-dark" data-bs-theme="dark">
       <div className="container-fluid">
 
-        <a className="navbar-brand d-flex align-items-center" href="#">
+        <Link className="navbar-brand d-flex align-items-center" to="/">
           <i className="bi bi-chevron-contract fs-1"></i>
           <h1 className="fs-2 mb-0">Virgilio Arrieta</h1>
-        </a>
+        </Link>
 
         <button className="navbar-toggler"
           type="button"
@@ -22,19 +24,19 @@ function Navbar() {
         <div className="collapse navbar-collapse" id="navbarNavDropdown">
           <ul className="navbar-nav ms-auto">
             <li className="nav-item">
-              <a className="nav-link active" aria-current="page" href="#">Inicio</a>
+              <Link className="nav-link active" aria-current="page" to="">Inicio</Link>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">Pintura</a>
+              <Link className="nav-link" to="">Pintura</Link>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">Música</a>
+              <Link className="nav-link" to="">Música</Link>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">Biografía</a>
+              <Link className="nav-link" to="/biografia">Biografía</Link>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">Blog</a>
+              <Link className="nav-link" to="">Blog</Link>
             </li>
           </ul>
         </div>

@@ -7,3 +7,11 @@
   height: 400px;
   object-fit: cover;
 }
+
+.cita {
+  border-left: 4px solid #b00000;
+  padding-left: 16px;
+  margin: 20px 0;
+  font-style: italic;
+  color: #555;
+}

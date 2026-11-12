@@ -1,17 +1,22 @@
+import CardLeft from "../Elements/cardLeft"
+
 function Biografia() {
   return (
     <div>
-      <h2>Biografía</h2>
+      <h2>Vida y obra de un Creador Integral</h2>
 
-      <div className="card card-row" style={{maxwidth: "540px"}}>
-        <img src="..." className="card-img-start" alt="..."/>
-          <div className="card-body">
-            <h4 className="card-title">Card title</h4>
-            <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-            <p className="card-text"><small className="fg-2">Last updated 3 mins ago</small></p>
-          </div>
+      <CardLeft
+        img="/VA taller.webp"
+        title='El Limón'
+        text='Virgilio Arrieta nació el 14 de abril de 1955 en El Limón, un pintoresco valle del estado Aragua, Venezuela. Este lugar, conocido por su rica naturaleza y sus faenas agrícolas centradas en la producción de caña de azúcar, moldeó su carácter y creatividad. Fue allí, en un entorno rural junto a sus padres y seis hermanos, donde transcurrieron los años más formativos de su vida. La conexión con esta tierra fértil y su vida sencilla marcó profundamente su sensibilidad artística.
+      
+      "Lo que ahora soy es producto de esa niñez"
 
-      </div>
+      Desde muy pequeño, Virgilio mostró una marcada inclinación hacia las artes, especialmente la pintura y la música. Con tan solo 11 años, demostró su osadía artística al organizar su primera exposición de manera autodidacta, utilizando la cerca de un parque infantil de la Plaza Bolívar de El Limón para mostrar sus pinturas durante su reinauguración. Este gesto audaz atrajo la atención del gobernador, quien no solo adquirió una de sus obras, sino que también le otorgó una beca de estudios.
+      
+      Este evento fortuito marcó el inicio de su camino artístico, una senda que seguiría explorando con pasión y determinación.
+      '
+      />
 
     </div>
   )

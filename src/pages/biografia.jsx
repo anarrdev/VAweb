@@ -18,7 +18,6 @@ function Biografia() {
       </p>
 
 
-
       <h3>Juventud y Formación Dual</h3>
       <p>
         Durante su adolescencia, Virgilio continuó cultivando su amor por las artes mientras cumplía con sus estudios formales. A los 19 años se trasladó a Barquisimeto para estudiar Contaduría Pública y Finanzas en la universidad, una decisión que le permitió desarrollar una formación académica sólida. Sin embargo, nunca perdió de vista su verdadero llamado: el arte y la música.
@@ -26,6 +25,7 @@ function Biografia() {
       <p>
         En paralelo a sus estudios universitarios, participó en talleres de formación artística y asistió a salones de arte, donde fue perfeccionando su técnica. Este período de su vida fue clave para equilibrar su lado académico con su crecimiento creativo, sentando las bases para lo que se convertiría en una carrera multifacética y profundamente comprometida con la expresión artística.
       </p>
+
 
       <h3>Entrega Plena al Arte y la Música</h3>
       <p>
@@ -35,6 +35,7 @@ function Biografia() {
         En ese entorno íntimo y efervescente, Arrieta exploró con profundidad una amplia variedad de técnicas: trabajó con carboncillo, lápices de colores, tizas, ceras y lápices al óleo, así como con tinta, experimentando con texturas, contrastes y gestualidades que enriquecieron su lenguaje visual.
         Fue también allí donde consolidó su dominio del retrato, un género que interpreta con precisión técnica, fuerza expresiva y una sensibilidad que distingue cada una de sus obras.
       </p>
+
 
       <h3>Exploraciones Creativas</h3>
       <p>
@@ -51,6 +52,7 @@ function Biografia() {
         A lo largo de su trayectoria, ha demostrado ser un creador en constante transformación, comprometido con la búsqueda de un lenguaje artístico propio. Su obra, arraigada en la sensibilidad humana y en las emociones más universales, trasciende fronteras y géneros, dejando un impacto imborrable tanto en el arte como en la música.
       </p>
 
+
       <h3>La Música: Una Carrera Prolífica y Cultural</h3>
       <p>
         La música, siempre presente en su vida, fue otro de los pilares fundamentales de su obra. Virgilio Arrieta compuso más de trescientas canciones que han sido interpretadas por artistas nacionales e internacionales como <strong>Simón Díaz, Oscar D’León, Serenata Guayanesa, María Rivas, Neguito Borjas, Gualberto Ibarreto</strong> y muchos otros. Sus letras, cargadas de lirismo y sensibilidad, celebran la cultura y las tradiciones venezolanas.
@@ -58,6 +60,7 @@ function Biografia() {
       <p>
         Producciones como <strong>“El Canto del Pueblo II”, “Lo Nuestro es lo Mejor II”, “Agua Bendita”, “Corazón Venezolano”, “El Tiquititaqui del Tambor”, “Falta por Cantarle a Tanta Gente”, “El Amor es la Vida”, “Arcilla Camino y Sol”, y “Si Así Llueve Que No Escampe”</strong> destacan entre sus contribuciones al acervo musical venezolano. Estas producciones no solo muestran su versatilidad como compositor, sino también su capacidad para abordar temas que resuenan profundamente con la identidad nacional.
       </p>
+
 
       <h3>“Lo Nuestro es lo Mejor”: Un Tributo a la Música Venezolana</h3>
       <p>
@@ -71,6 +74,21 @@ function Biografia() {
       </p>
       <p>
         “Lo Nuestro es lo Mejor” no solo destacó el legado de Arrieta como compositor, sino que también subrayó su compromiso con la cultura local, convirtiéndose en un testimonio del impacto de su obra en la identidad musical de Venezuela.
+      </p>
+
+
+      <h3>Reconocimiento Internacional y Embajador Cultural</h3>
+      <p>
+        En 1995, Virgilio Arrieta fue invitado a participar en la prestigiosa gira “Música y Colores de Venezuela” en Italia, un evento que lo posicionó como un embajador de la cultura venezolana en el ámbito internacional. Durante esta gira, presentó un repertorio cuidadosamente seleccionado, que exaltaba las tradiciones culturales y musicales de su país. Las letras de sus canciones, profundamente inspiradas en vivencias personales, así como en las costumbres y tradiciones de los pueblos venezolanos, resonaron con un público diverso que recibió su trabajo con entusiasmo y admiración.
+      </p>
+      <p>
+        Cada interpretación estuvo impregnada de un fuerte sentimiento venezolano, logrando transmitir la esencia y el espíritu del país a través de su música. Sus melodías, cargadas de lirismo y emotividad, reflejaban la diversidad cultural, la rica historia y el vibrante folclore de Venezuela. La conexión entre Arrieta y el público italiano fue palpable, convirtiendo cada presentación en una experiencia inolvidable que celebraba el colorido y la profundidad de la música venezolana.
+      </p>
+      <p>
+        Tres años más tarde, en 1998, Arrieta amplió aún más su impacto internacional al viajar al Reino Unido bajo el patrocinio de British Petroleum. Participó en el prestigioso Festival de Aberdeen en Escocia y en el emblemático Bolívar Hall de Londres, dos escenarios que le ofrecieron la oportunidad de llevar su música a nuevas audiencias. Estas presentaciones permitieron a Arrieta compartir la riqueza cultural venezolana con públicos de diferentes contextos, reafirmando su compromiso de actuar como un puente entre culturas.
+      </p>
+      <p>
+        En cada una de estas experiencias internacionales, Arrieta no solo mostró su talento como músico y compositor, sino también su capacidad para capturar la esencia de Venezuela y presentarla de manera universal. Estas giras no fueron simplemente eventos artísticos; representaron un testimonio de la capacidad transformadora del arte, capaz de conectar culturas, emocionar audiencias y celebrar la identidad venezolana en escenarios globales.
       </p>
     </div >
   )

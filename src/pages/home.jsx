@@ -8,7 +8,7 @@ function Home() {
       <img src="/MuralOriginalUCLA.webp" className="img-fluid" alt="Mural 'Ah mundo barquisimeto' UCLA"></img>
 
       <div className="d-flex flex-column align-items-center m-3 gap-2">
-        <p className="m-0">Te invitamos a explorar su universo artístico, donde cada creacion cuenta una historia.</p>
+        <p className="m-0">Pintor - Muralista - Compositor - Cantautor - Productor</p>
 
         {/* Redes Sociales */}
         <p className="h4 m-0">¡Disfruta la Experiencia!</p>

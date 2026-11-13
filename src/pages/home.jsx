@@ -18,7 +18,7 @@ function Home() {
         {/* Card Artista */}
         <CardImg
           title="Virgilio Arrieta"
-          subtitle="Patrimonio Cultural inmaterial de Venezuela"
+          subtitle="Patrimonio Cultural Inmaterial de Venezuela"
           image="/VA taller.webp"
           text="Nació en El Limón Edo. Aragua en 1955. Desde sus primeros años mostró una sensibilidad especial que lo llevó a desarrollar, de forma autodidacta, una trayectoria artística que abarca la pintura, la música y la expresión cultural.
 

@@ -90,6 +90,47 @@ function Biografia() {
       <p>
         En cada una de estas experiencias internacionales, Arrieta no solo mostró su talento como músico y compositor, sino también su capacidad para capturar la esencia de Venezuela y presentarla de manera universal. Estas giras no fueron simplemente eventos artísticos; representaron un testimonio de la capacidad transformadora del arte, capaz de conectar culturas, emocionar audiencias y celebrar la identidad venezolana en escenarios globales.
       </p>
+
+      <h3>El Alma de los Pueblos y Su Aporte a la Cultura Popular</h3>
+      <p>
+        Como locutor certificado desde 1992, Virgilio Arrieta dirigió durante siete años el programa “El Alma de los Pueblos” en Promar Televisión, un espacio dedicado a la promoción de la cultura y la música venezolana. Además, participó como jurado en eventos internacionales, como el Festival de Villavicencio en Colombia (1997), y lideró proyectos innovadores como la creación de agrupaciones musicales juveniles como Bahareque, Santoral y Aguamiel, con quienes grabó 32 de sus composiciones.
+      </p>
+      <p>
+        Un Legado Artístico y Humano
+        En su faceta como artista plástico, Arrieta exploró diversas formas de expresión, llevando su obra más allá del caballete para crear murales de gran escala, incluyendo uno que supera los 224 m². Su arte, profundamente humanista y poético, ha sido expuesto en Latinoamérica, Estados Unidos y Europa, logrando resonar con audiencias de distintas culturas. La unión de sus talentos como pintor, compositor y músico lo convierte en un creador integral.
+      </p>
+      <blockquote className="blockquote cita">
+        <p>“Mis dibujos se convierten en canciones, y mis canciones se llenan de color. Es una relación necesaria e inevitable.”</p>
+      </blockquote>
+      <p>
+        Virgilio Arrieta es un artista y cantautor cuya obra trasciende las fronteras de lo visual y lo sonoro. Su legado, profundamente arraigado en las tradiciones venezolanas, celebra la belleza de la vida cotidiana, la dualidad del ser humano y el poder del arte para conectar corazones y culturas. Su trayectoria, marcada por el amor a su país y su búsqueda constante de excelencia, lo consolida como una de las figuras más destacadas del panorama artístico y cultural venezolano.
+      </p>
+
+      <h3>Algunas distinciones</h3>
+      <ul>
+        <li>
+          <p>1999 – Orden Jacinto Lara, en su primera clase, otorgada por el clero y el Ejecutivo Nacional.</p>
+        </li>
+        <li>
+          <p>2001 – Embajador cultural de Lara.</p>
+        </li>
+        <li>
+          <p>2006 – Epónimo de todas las carreras de la XXV promoción de la Universidad Yacambú.</p>
+        </li>
+        <li>
+          <p>2007 – Recibe la Orden Mario Briceño Iragorri, como artista e hijo ilustre, Maracay Aragua.</p>
+        </li>
+        <li>
+          <p>2015 – Recibe Orden Juan Guillermo Iribarren, en su primera clase.</p>
+        </li>
+        <li>
+          <p>2024 – Recibe Medalla Institucional de la Universidad Centroccidental Lisandro Alvarado (UCLA)-Barquisimeto, por su excelente contribución a la cultura en nuestra región y el país.</p>
+        </li>
+        <li>
+          <p>2025 – Recibe Orden “Hijo Ilustre del Municipio Crespo”, en su Única Clase.</p>
+        </li>
+      </ul>
+
     </div >
   )
 }

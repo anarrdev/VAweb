@@ -1,4 +1,4 @@
-import RedesSociales from "./Elements/iconorrss"
+import RedesSociales from "./Elements/IconoRrss"
 
 function Footer() {
   return (

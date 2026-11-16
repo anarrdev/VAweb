@@ -30,7 +30,7 @@ function Navbar() {
               <Link className="nav-link" to="">Pintura</Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="">Música</Link>
+              <Link className="nav-link" to="/musica">Música</Link>
             </li>
             <li className="nav-item">
               <Link className="nav-link" to="/biografia">Biografía</Link>

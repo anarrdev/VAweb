@@ -1,7 +1,7 @@
 import "../main.css"
-import VerMas from "./vermas"
+import VerMas from "./VerMas"
 
-function CardImg({title, subtitle, image, text, button}) {
+function CardImg({title, subtitle, image, text}) {
   return (
     <div className="card text-bg-dark">
       <div className="card-body">

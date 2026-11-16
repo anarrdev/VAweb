@@ -1,5 +1,5 @@
-import CardImg from "../Elements/cardImg"
-import RedesSociales from "../Elements/iconorrss"
+import CardImg from "../Elements/CardImg"
+import RedesSociales from "../Elements/IconoRrss"
 
 function Home() {
   return (
